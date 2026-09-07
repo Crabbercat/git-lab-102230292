@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-
 # Git Lab
 
 Đây là repository thực hành Git đầu tiên của tôi.
