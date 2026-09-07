@@ -5,6 +5,6 @@
 
 ## Thông tin sinh viên
 
-- Họ tên:
-- MSSV:
-- Lớp:
+- Họ tên: Nguyễn Trọng Hiếu
+- MSSV: 102230292
+- Lớp: 23T_ĐT
