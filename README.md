@@ -8,6 +8,7 @@
 - MSSV: 102230292
 - Lớp: 23T_ĐT
 - Github: Crabbercat
+- Locate: earth
 
 ## Mục tiêu
 
